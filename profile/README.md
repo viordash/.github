@@ -15,4 +15,4 @@ If you have a project or a need for a business to your network - write, and we w
 ## Contacts
 
 - [info@wimark.com](mailto://info@wimark.com)
-- [wimark.com](https://wimark.com.main)
+- [wimark.com](https://wimark.com/main)
